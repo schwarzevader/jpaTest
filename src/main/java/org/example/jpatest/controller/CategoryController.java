@@ -24,7 +24,8 @@ public class CategoryController {
 
     @Autowired
     private ProductCategoryRepo productCategoryRepo;
-
+// fdfq
+// fdfq
 
     @GetMapping
 //    public ResponseEntity<CustomResponse>getAllCategories(){
