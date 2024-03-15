@@ -24,7 +24,9 @@ public class CategoryController {
 
     @Autowired
     private ProductCategoryRepo productCategoryRepo;
-
+//some  janegyy
+//some  janegyy
+//some  janegyy
 
     @GetMapping
 //    public ResponseEntity<CustomResponse>getAllCategories(){
